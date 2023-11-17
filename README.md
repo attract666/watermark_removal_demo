@@ -26,6 +26,10 @@ pip3 install -r requirements.txt
 ## Prepare pretrained models
 Ensure that the weights of the pre-trained model have been downloaded locally.
 
+Download pretrained models from [Weights](https://github.com/sczhou/ProPainter/releases/tag/v0.1.0) to the ```ProPainter-main/weights``` folder.
+
+Download pretrained models from [Checkpoint](https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth) to the ```segment-anything-main/checkpoint``` folder
+
 The directory structure will be arranged as:
 ```
 ProPainter-main/
