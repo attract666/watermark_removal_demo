@@ -2,7 +2,7 @@
 1.Clone Repo
 ```
 # clone the repository locally and install with
-git clone 
+git clone https://github.com/attract666/watermark_removal_demo.git
 
 # install Segment-anything
 cd segment-anything-main
